@@ -1,6 +1,6 @@
 <div align="center">
 
-![Aetherra Labs — Research, Develop, Create, Evolve](assets/aetherra-banner.svg)
+![Aetherra Labs — Research, Develop, Create, Evolve](assets/aetherra-github-banner.svg)
 
 # Timothy Holdorff
 
