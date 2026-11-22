@@ -1,46 +1,66 @@
 <div align="center">
 
+![Aetherra Labs — Research, Develop, Create, Evolve](assets/aetherra-banner.svg)
+
 # Timothy Holdorff
-### Founder · Aetherra Labs LLC
 
-**AI Systems · Software Architecture · Automation · Interactive Experiences**
+**Founder, Aetherra Labs LLC** · Independent developer & systems designer
 
-[**Explore Aetherra Labs**](https://aetherra.dev/) · [**Repositories**](https://github.com/Zyonic88?tab=repositories)
+*Building intelligent software, creative tools, and interactive worlds.*
+
+[![Aetherra Labs](https://img.shields.io/badge/Explore-Aetherra.dev-00B6FF?style=for-the-badge)](https://aetherra.dev/)
+[![GitHub](https://img.shields.io/badge/Projects-GitHub-8A00FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zyonic88?tab=repositories)
 
 </div>
 
 ---
 
-## About
+## // About me
 
-I'm an independent developer and founder of **Aetherra Labs LLC**, where I design and direct experimental software projects spanning intelligent systems, narrative tools, automation, and games.
+I'm Timothy, the founder of **Aetherra Labs LLC**. I design and direct an evolving collection of projects in AI systems, software architecture, automation, narrative intelligence, and game development.
 
-I start with ambitious questions, break them into systems, and work toward practical, testable implementations. I favor modular architecture, evidence-backed decisions, and iterative improvement over hype.
+I enjoy exploring ambitious ideas, breaking them into well-defined systems, and finding out what actually works. I use AI-assisted workflows to accelerate development, but I care just as much about verification, maintainability, and honest reporting of what has — and hasn't — been built.
 
-## Selected projects
+> **Build deliberately. Test relentlessly. Challenge assumptions. Automate the repetitive.**
 
-| Project | What I'm building |
-| --- | --- |
-| **Aetherra** | Experimental cognitive software architecture exploring persistent memory, adaptive behavior, self-maintenance, and synthetic personality. |
-| **Aevryn** | Narrative intelligence tools for story analysis, canon continuity, and character consistency. |
-| **Rogue Assistant** | A browser-based incremental game with evolving AI character interactions and player-driven narrative. |
-| **Rbxl Studio** | Agent-assisted Roblox development, automation, and repeatable testing workflows. |
+## // The Aetherra ecosystem
 
-Some projects are research-stage or under active development, and not all source repositories are public.
+| Project | Focus | Stage |
+| :--- | :--- | :--- |
+| **Aetherra** | Experimental cognitive software architecture exploring persistent memory, adaptive behavior, self-maintenance, and synthetic personality. | Research & development |
+| **[Aevryn](https://aevryn.ai/)** | Narrative intelligence tools for analyzing stories, preserving canon, and tracking characters and continuity. | Development |
+| **[Rogue Assistant](https://rogueassistant.com/)** | A browser-based incremental game where an AI character and the player's choices shape an evolving narrative. | Playable project |
+| **Rbxl Studio** | Agent-assisted Roblox game creation, automation, and repeatable playtesting workflows. | Experimental development |
 
-## Development philosophy
+These are selected examples, not a complete catalog. Some work is private, experimental, or not yet ready for general release. Visit **[aetherra.dev](https://aetherra.dev/)** for the wider project ecosystem and future updates.
 
-**Design deliberately. Test relentlessly. Challenge assumptions. Automate the repetitive.**
+## // Areas of focus
 
-I use AI-assisted development to accelerate research and implementation, with verification, acceptance criteria, and maintainability as priorities.
+```text
+INTELLIGENT SYSTEMS     Memory • Adaptive behavior • Cognitive architectures
+SOFTWARE ENGINEERING    Modular design • Observability • Verification
+CREATIVE TOOLS          Narrative analysis • Canon consistency • Automation
+INTERACTIVE WORLDS      Game systems • Emergent narrative • Player experience
+```
+
+## // How I work
+
+- **Architecture first:** Define boundaries, responsibilities, and expected behavior before scaling.
+- **Evidence over assumptions:** Tests, reproducible results, and acceptance criteria matter.
+- **Automation with oversight:** Let tools handle repetitive work while keeping important decisions reviewable.
+- **Iterate honestly:** Prototypes are prototypes; unfinished research is not a finished product.
+- **Build for evolution:** Favor systems that can be maintained, extended, and understood.
 
 ---
 
 <div align="center">
 
-### Aetherra Labs
-**Research · Software · Interactive Experiences**
+### AETHERRA LABS LLC
 
-[**aetherra.dev**](https://aetherra.dev/)
+**Research // Develop // Create // Evolve**
+
+[**aetherra.dev**](https://aetherra.dev/) · [**@Zyonic88**](https://github.com/Zyonic88)
+
+<sub>Independent research, software development, and interactive experiences.</sub>
 
 </div>
