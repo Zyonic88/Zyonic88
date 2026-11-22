@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Aetherra Labs — Research, Develop, Create, Evolve</title>
+<desc id="desc">Futuristic Aetherra Labs banner in deep crystal blue and midnight violet with a geometric A emblem, subtle carbon-fiber pattern and glowing horizon.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#06101d"/><stop offset=".54" stop-color="#0b1430"/><stop offset="1" stop-color="#140925"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#00b6ff"/><stop offset=".52" stop-color="#89dfff"/><stop offset="1" stop-color="#8a00ff"/></linearGradient>
+<linearGradient id="line"><stop stop-color="#00b6ff" stop-opacity="0"/><stop offset=".25" stop-color="#00b6ff"/><stop offset=".72" stop-color="#8a00ff"/><stop offset="1" stop-color="#8a00ff" stop-opacity="0"/></linearGradient>
+<pattern id="weave" width="24" height="24" patternUnits="userSpaceOnUse" patternTransform="rotate(35)"><path d="M0 0V24 M12 0V24" stroke="#8fc9ff" stroke-opacity=".055" stroke-width="5"/></pattern>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="7"/></filter>
+</defs>
+<rect width="1200" height="300" fill="url(#bg)"/><rect width="1200" height="300" fill="url(#weave)"/>
+<g opacity=".32" fill="none" stroke="#00b6ff"><path d="M0 58H150L193 15H310"/><path d="M1200 238H1050L1018 270H850"/><path d="M800 0L960 155H1200" opacity=".3"/></g>
+<circle cx="1065" cy="95" r="185" fill="#8a00ff" opacity=".09"/><circle cx="260" cy="200" r="180" fill="#00b6ff" opacity=".06"/>
+<path d="M74 225L162 53L250 225M113 170H211" fill="none" stroke="#00b6ff" stroke-width="13" stroke-linejoin="round" opacity=".35" filter="url(#glow)"/>
+<path d="M74 225L162 53L250 225M113 170H211" fill="none" stroke="url(#accent)" stroke-width="10" stroke-linejoin="round"/>
+<path d="M95 225L162 91L229 225" fill="none" stroke="#e0f5ff" stroke-opacity=".55" stroke-width="2"/>
+<text x="318" y="121" font-family="Arial,Helvetica,sans-serif" font-size="59" font-weight="700" letter-spacing="8" fill="#edf7ff">AETHERRA</text>
+<text x="320" y="177" font-family="Arial,Helvetica,sans-serif" font-size="52" font-weight="700" letter-spacing="15" fill="#ae77ff">LABS</text>
+<text x="323" y="215" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="4" fill="#a7c9e9">RESEARCH  //  DEVELOP  //  CREATE  //  EVOLVE</text>
+<path d="M36 264H1164" stroke="url(#line)" stroke-width="3"/><path d="M36 36H105M36 36V105M1164 195V264H1095" fill="none" stroke="#00b6ff" stroke-width="2"/>
+</svg>
