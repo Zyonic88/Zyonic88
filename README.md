@@ -25,12 +25,32 @@ I enjoy exploring ambitious ideas, breaking them into well-defined systems, and 
 
 ## // The Aetherra ecosystem
 
-| Project | Focus | Stage |
-| :--- | :--- | :--- |
-| **Aetherra** | Experimental cognitive software architecture exploring persistent memory, adaptive behavior, self-maintenance, and synthetic personality. | Research & development |
-| **[Aevryn](https://aevryn.ai/)** | Narrative intelligence tools for analyzing stories, preserving canon, and tracking characters and continuity. | Development |
-| **[Rogue Assistant](https://rogueassistant.com/)** | A browser-based incremental game where an AI character and the player's choices shape an evolving narrative. | Playable project |
-| **Rbxl Studio** | Agent-assisted Roblox game creation, automation, and repeatable playtesting workflows. | Experimental development |
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://aetherra.dev/"><img src="assets/project-aetherra.svg" alt="Aetherra — cognitive systems, research and development" width="100%"></a>
+<br><strong>Aetherra</strong><br>
+Experimental cognitive software architecture exploring persistent memory, adaptive behavior, self-maintenance, and synthetic personality.
+</td>
+<td width="50%" valign="top">
+<a href="https://aevryn.ai/"><img src="assets/project-aevryn.svg" alt="Aevryn — narrative intelligence, in development" width="100%"></a>
+<br><strong><a href="https://aevryn.ai/">Aevryn</a></strong><br>
+Narrative intelligence tools for analyzing stories, preserving canon, and tracking characters and continuity.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://rogueassistant.com/"><img src="assets/project-rogue-assistant.svg" alt="Rogue Assistant — interactive narrative, playable project" width="100%"></a>
+<br><strong><a href="https://rogueassistant.com/">Rogue Assistant</a></strong><br>
+A browser-based incremental game where an AI character and the player's choices shape an evolving narrative.
+</td>
+<td width="50%" valign="top">
+<a href="https://aetherra.dev/"><img src="assets/project-rbxl-studio.svg" alt="Rbxl Studio — automated game creation, experimental" width="100%"></a>
+<br><strong>Rbxl Studio</strong><br>
+Agent-assisted Roblox game creation, automation, and repeatable playtesting workflows.
+</td>
+</tr>
+</table>
 
 These are selected examples, not a complete catalog. Some work is private, experimental, or not yet ready for general release. Visit **[aetherra.dev](https://aetherra.dev/)** for the wider project ecosystem and future updates.
 
